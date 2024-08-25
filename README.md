@@ -1,6 +1,6 @@
 # Thompson Sampling
 
-This repository contains code for implementing Thompson Sampling, a technique used in multi-armed bandit problems, to optimize the click-through rate (CTR) for online advertisements. The code is written in Python and uses the pandas and matplotlib libraries.
+This repository contains code for implementing Thompson Sampling, a technique used in multi-armed bandit problems, to optimize the click-through rate (CTR) for online advertisements. The code is written in Python & R and uses the pandas and matplotlib libraries.
 
 ## Code Explanation
 
